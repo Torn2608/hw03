@@ -14,7 +14,6 @@ def calculate(a, operator, b):
         result = None
     return result
 
-
 def main():
     first = input("First number (or q): ")
     while first != "q":
